@@ -10,7 +10,27 @@ La aplicación permite:
 
 ---
 
-### Construido mediante:
+### Notas adicionales 📗
+
+##### Para utlizar la aplicación se deberan:
+
+---
+
+Instalar modulos de node ⬇️ :
+
+```
+npm install
+```
+
+Construir ejecutar ⚙️ :
+
+```
+npm run dev
+```
+
+---
+
+### La aplicación fue construido mediante:
 
 1. React: 18.2.0 🚀
 2. React Router Dom: 6.14.1 
