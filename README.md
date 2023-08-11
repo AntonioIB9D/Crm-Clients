@@ -37,3 +37,7 @@ npm run dev
 3. Vite: 4.4.0 
 4. Tailwindcss: 3.3.2
 5. JSON Server 0.17.3
+
+----
+
+##### Nota: Puede ser que la aplicación no muestre contenido desplegado en la tabla de clientes debido a que se utilizo el servicio local JSON SERVER simulando una API 🚀
