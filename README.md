@@ -2,6 +2,14 @@
 
 Administrador de clientes CRUD ✨
 
+La aplicación permite: 
+
+1. Añadir un nuevo cliente. ✏️
+2. Editar un cliente existente. 🟢
+3. Eliminar un cliente existente. ❌
+
+---
+
 ### Construido mediante:
 
 1. React: 18.2.0 🚀
