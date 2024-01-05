@@ -1,7 +1,11 @@
 @import './Font/font.css';
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
-  font-family: 'Quicksand Light', system-ui, sans-serif;
+  font-family: 'Quicksand Light', sans-serif;
   font-weight: 300;
   font-size: 16px;
 }
