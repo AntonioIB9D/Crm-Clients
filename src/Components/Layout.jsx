@@ -6,7 +6,7 @@ function Layout() {
   return (
     <div className="md:flex md:min-h-screen">
       <aside className="md:w-1/4 bg-black px-5 py-10">
-        <h2 className="text-4xl text-center text-white">CRM - Clientes</h2>
+        <h2 className="text-center text-white">CRM - Clientes</h2>
 
         <nav className="mt-10">
           <Link
