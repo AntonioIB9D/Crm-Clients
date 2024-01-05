@@ -39,7 +39,7 @@ function NuevoCliente() {
 
   return (
     <>
-      <h1 className="font-black text-4xl text-blue-900">Nuevo cliente</h1>
+      <h1 className="text-4xl font-semibold text-blue-900">Nuevo cliente</h1>
       <p className="mt-3">
         Rellena todos los campos para registrar un nuevo cliente
       </p>
