@@ -3,7 +3,7 @@
   src: url('Quicksand-Bold.ttf');
   src: local('Quicksand Bold'), local('Quicksand-Bold');
   font-weight: bold;
-  font-style: normal;
+  font-style: bold;
 }
 
 @font-face {
