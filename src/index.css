@@ -1,8 +1,8 @@
-@import './font/font.css';
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import './font/font.css';
 
 body {
   font-family: 'Quicksand', sans-serif;
